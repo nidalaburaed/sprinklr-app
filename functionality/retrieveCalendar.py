@@ -1,0 +1,1 @@
+#Functionality for retrieving beautiful and user-friendly calendare view
